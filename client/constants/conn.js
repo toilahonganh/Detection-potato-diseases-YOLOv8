@@ -1,0 +1,1 @@
+export const urlServer = "https://d6f3-123-21-32-251.ngrok-free.app";
